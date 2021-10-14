@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Martian Robots", "Martian Robots\Martian Robots.csproj", "{F11429F7-76B8-4A9C-8A9F-57F1CFA826D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Martian Robots.Domain", "Martian Robots.Domain\Martian Robots.Domain.csproj", "{F18577F3-53F3-4820-B958-361A5D4112F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Martian Robots.Commands", "Martian Robots.Commands\Martian Robots.Commands.csproj", "{0950FEBE-5170-4024-9140-2C5A956DBC73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Martian Robots.Application", "Martian Robots.Application\Martian Robots.Application.csproj", "{64519D65-8087-44C9-86CF-B42C4CFCDD99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F11429F7-76B8-4A9C-8A9F-57F1CFA826D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11429F7-76B8-4A9C-8A9F-57F1CFA826D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11429F7-76B8-4A9C-8A9F-57F1CFA826D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11429F7-76B8-4A9C-8A9F-57F1CFA826D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18577F3-53F3-4820-B958-361A5D4112F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18577F3-53F3-4820-B958-361A5D4112F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18577F3-53F3-4820-B958-361A5D4112F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18577F3-53F3-4820-B958-361A5D4112F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0950FEBE-5170-4024-9140-2C5A956DBC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0950FEBE-5170-4024-9140-2C5A956DBC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0950FEBE-5170-4024-9140-2C5A956DBC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0950FEBE-5170-4024-9140-2C5A956DBC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64519D65-8087-44C9-86CF-B42C4CFCDD99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64519D65-8087-44C9-86CF-B42C4CFCDD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64519D65-8087-44C9-86CF-B42C4CFCDD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64519D65-8087-44C9-86CF-B42C4CFCDD99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E918C08A-2246-400B-8EFB-1BA8B66E6FA6}
+	EndGlobalSection
+EndGlobal
